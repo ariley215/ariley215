@@ -27,8 +27,8 @@ Now I've got my eyes on the tech scene, armed with customer service experience a
 
 <h2 align="center">🛠️ Technologies and Tools</h2>
 
-- **Languages:** Python, JavaScript, SQL, Zsh, CSS, HTML, Markdown
-- **Frameworks and Libraries:** React, Bootstrap, Express.js, Pandas, Numpy, Django, Node.js, PyTest, PyGame, Tailwind, Kaggle
+- **Languages:** Python, JavaScript, SQL, CSS, HTML, Markdown
+- **Frameworks and Libraries:** React, Bootstrap, Express.js, Next.js Pandas, Numpy, Django, Node.js, PyTest, PyGame, Tailwind, Kaggle
 - **Tools:** Visual Studio Code, Jupyter, Git, CLI, Docker, GitHub, ChatGPT, Vercel, Render, Netlify
 - **Databases:** MongoDB, PostgreSQL, SQLite
 
